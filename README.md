@@ -6,7 +6,7 @@ This project implements a deep learning solution for automatically classifying b
 
 ## Dataset Information
 
-The project utilizes the [Brain Tumor MRI Dataset](#https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data) from Kaggle, created by Masoud Nickparvar. This comprehensive dataset provides a robust foundation for training and evaluating the classification model.
+The project utilizes the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data) from Kaggle, created by Masoud Nickparvar. This comprehensive dataset provides a robust foundation for training and evaluating the classification model.
 
 ### Dataset Characteristics:
 
